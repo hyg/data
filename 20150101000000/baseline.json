@@ -1,0 +1,69 @@
+{
+	"version":"",
+    "PoolList": [
+        {
+            "PoolTypeName": "raw",
+            "Price": {
+                "RMB": 1,
+                "Time1": 1,
+                "Time2": 4,
+                "Time3": 16
+            },
+			"Balance": {
+				"Token":0,
+				"RMB": 0,
+                "Time1": 0,
+                "Time2": 0,
+                "Time3": 0
+			}
+        },
+        {
+            "PoolTypeName": "p1",
+            "Price": {
+                "RMB": 1,
+                "Time1": 4,
+                "Time2": 4,
+                "Time3": 4
+            },
+			"Balance": {
+				"Token":0,
+				"RMB": 0,
+                "Time1": 0,
+                "Time2": 0,
+                "Time3": 0
+			}
+        },
+        {
+            "PoolTypeName": "p1",
+            "Price": {
+                "RMB": 1,
+                "Time1": 16,
+                "Time2": 16,
+                "Time3": 16
+            },
+			"Balance": {
+				"Token":0,
+				"RMB": 0,
+                "Time1": 0,
+                "Time2": 0,
+                "Time3": 0
+			}
+        },
+        {
+            "PoolTypeName": "p1",
+            "Price": {
+                "RMB": 1,
+                "Time1": 64,
+                "Time2": 64,
+                "Time3": 64
+            },
+			"Balance": {
+				"Token":0,
+				"RMB": 0,
+                "Time1": 0,
+                "Time2": 0,
+                "Time3": 0
+			}
+        }
+    ],
+}
