@@ -1,0 +1,11 @@
+{
+	"ContractID":1,
+	"PoolName":"raw",
+	"OtherPartyType":0,
+	"OtherPartyName":"",
+	"Content":"基本生活",
+	"SignTime":"2015-01-01 00:00:00",
+	"ValidTime":"2015-01-01 00:00:00",
+	"InvalidTime":"",
+	"Status":2
+}

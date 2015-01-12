@@ -1,0 +1,12 @@
+{
+	"ContractID":1,
+	"TicketID":0,
+	"PoolName":"raw",
+	"AssetType":"Time2",
+	"Amount":7200,
+	"TokenAmount":28800,
+	"IncomeTime":"2015-01-01 00:00:00",
+	"Log":"",
+	"Param1":"2015-01-01 00:00:00",
+	"Param2":"2015-01-20 24:00:00"
+}

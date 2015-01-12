@@ -1,8 +1,12 @@
 {
-	"period":[
+	"Period":[
 	{
 		"BeingTime":"201501010000",
-		"TotalBalance":"0"
+		"TotalBalance":0.0
 	}
-	]
+	],
+	"ContractMax":1,
+	"Contract": [1],
+	"TicketMax":0,
+	"Ticket": []
 }

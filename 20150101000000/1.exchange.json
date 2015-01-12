@@ -1,0 +1,13 @@
+{
+	"PoolName1":"raw",
+	"AssetType1":"Time1",
+	"Amount1":2400,
+	"PoolName2":"p1",
+	"AssetType2":"Token",
+	"Amount2":2400,
+	"TokenAmount":2400,
+	"ExchangeTime":"2015-01-01 00:00:00",
+	"Log":"每天两小时",
+	"Param1":"",
+	"Param2":""
+}
