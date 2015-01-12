@@ -34,7 +34,7 @@
 			}
         },
         {
-            "PoolTypeName": "p1",
+            "PoolTypeName": "p2",
             "Price": {
                 "RMB": 1,
                 "Time1": 16,
@@ -50,7 +50,7 @@
 			}
         },
         {
-            "PoolTypeName": "p1",
+            "PoolTypeName": "ia",
             "Price": {
                 "RMB": 1,
                 "Time1": 64,

@@ -1,0 +1,9 @@
+﻿{
+	"TicketID":1,
+	"ContractID":4,
+	"Target":"基本管理制度",
+	"Content":"启动S2状态",
+	"CreateTime":"2015-01-01 00:00:00",
+	"Deadline":"2015-01-15 00:00:00",
+	"Status":2
+}

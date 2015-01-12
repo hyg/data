@@ -1,0 +1,12 @@
+﻿{
+	"ContractID":4,
+	"TicketID":1,
+	"PoolName":"p2",
+	"AssetType":"Time1",
+	"Amount":90,
+	"TokenAmount":1440,
+	"PayTime":"2015-01-01 09:00:00",
+	"Log":"xuemen Infrastructure budget",
+	"Param1":"",
+	"Param2":""
+}

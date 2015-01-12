@@ -1,0 +1,12 @@
+﻿{
+	"ContractID":4,
+	"TicketID":1,
+	"PoolName":"p2",
+	"AssetType":"Time1",
+	"Amount":30,
+	"TokenAmount":480,
+	"PayTime":"2015-01-01 13:24:00",
+	"Log":"研究美联储的机制。细化IST、JT的管理机制。",
+	"Param1":"13:24",
+	"Param2":"13:56"
+}

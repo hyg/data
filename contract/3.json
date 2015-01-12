@@ -1,0 +1,12 @@
+﻿{
+	"ContractID":3,
+	"Title":"ego deploy",
+	"PoolName":"raw",
+	"OtherPartyType":2,
+	"OtherPartyName":"ego",
+	"Content":"ego部署者",
+	"SignTime":"2012-10-30 00:58:30",
+	"ValidTime":"2012-10-30 00:58:30",
+	"InvalidTime":"",
+	"Status":2
+}

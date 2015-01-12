@@ -1,0 +1,12 @@
+﻿{
+	"ContractID":0,
+	"TicketID":0,
+	"PoolName":"raw",
+	"AssetType":"Time2",
+	"Amount":180,
+	"TokenAmount":720,
+	"PayTime":"2015-01-01 19:30:00",
+	"Log":"openpgp签名。local版本。pgp导出的私钥还是无法使用，公钥还没测试。",
+	"Param1":"19:30",
+	"Param2":"22:34"
+}

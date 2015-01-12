@@ -5,8 +5,8 @@
 		"TotalBalance":0.0
 	}
 	],
-	"ContractMax":1,
-	"Contract": [1],
+	"ContractMax":6,
+	"Contract": [1,2,3,4,5,6],
 	"TicketMax":0,
 	"Ticket": []
 }
